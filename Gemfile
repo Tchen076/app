@@ -47,9 +47,13 @@ gem 'bootstrap-sass', '3.4.1'
 
 # Use Sass to process CSS
 # gem "sassc-rails"
+gem 'sassc-rails', '>= 2.1.0'
 
 #icons
 gem "font-awesome-sass", "~> 6.4.2"
+
+#jQuery
+gem 'jquery-rails'
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
